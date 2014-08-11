@@ -5,6 +5,6 @@ Imports: tools, RCurl, RSelenium, xts, stringr, dplyr, gdata, reshape2,
         quantmod, xtable, wordcloud, XML, ggplot2, gridExtra, rpart,
         rpart.plot, mgcv
 License: GPL (>= 3)
-MD5sum: cb0cd0ca81d642f3e2d384b63f0e2737
+MD5sum: a60fac6f9334a103c7cf70e49a20581a
 NeedsCompilation: no
 
