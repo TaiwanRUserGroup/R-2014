@@ -1,11 +1,11 @@
 Package: DSC2014Tutorial
-Version: 0.5.1
+Version: 0.5.2
 Depends: R (>= 3.1.0)
 Imports: tools, RCurl, RSelenium, xts, stringr, dplyr, gdata, reshape2,
         quantmod, xtable, wordcloud, XML, ggplot2, gridExtra, rpart,
         rpart.plot, mgcv, data.table, sqldf,
 Suggests: whisker, ggvis, e1071, caret, randomForest
 License: GPL (>= 3)
-MD5sum: 9f2c2f1675e782c4bb677657f20b5dd8
+MD5sum: 6ca3a5fb3ee1daddd6af85ed7e4c1f7c
 NeedsCompilation: no
 
