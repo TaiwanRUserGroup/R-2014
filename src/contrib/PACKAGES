@@ -6,6 +6,6 @@ Imports: tools, RCurl, RSelenium, xts, stringr, dplyr, gdata, reshape2,
         rpart.plot, mgcv, data.table, sqldf,
 Suggests: whisker, ggvis, e1071, caret, randomForest
 License: GPL (>= 3)
-MD5sum: 50f5fcde54524d3de72bde0fbe128f7d
+MD5sum: cadded94f5dace1f22c60266e95d059d
 NeedsCompilation: no
 
